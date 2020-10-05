@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhaojiaqi/CLionProjects/mouseget/main.cpp
+libfreenect2/libfreenect2.hpp
+-
+libfreenect2/frame_listener_impl.h
+-
+libfreenect2/packet_pipeline.h
+-
+libfreenect2/logger.h
+-
+opencv2/opencv.hpp
+-
+iostream
+-
+cmath
+-
+vector
+-
+

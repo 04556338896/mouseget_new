@@ -1,0 +1,3 @@
+/home/zhaojiaqi/CLionProjects/mouseget/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zhaojiaqi/CLionProjects/mouseget/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zhaojiaqi/CLionProjects/mouseget/cmake-build-debug/CMakeFiles/mouseget.dir
